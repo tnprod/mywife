@@ -1,2 +1,4 @@
 print("hello mf")
 print("gg")
+print("2hello mf")
+print("2gg")
